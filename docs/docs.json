@@ -812,6 +812,14 @@
     {
       "source": "/gcp/",
       "destination": "/platforms/gcp"
+    },
+    {
+      "source": "/memory-zh",
+      "destination": "/concepts/memory-zh"
+    },
+    {
+      "source": "/memory-zh/",
+      "destination": "/concepts/memory-zh"
     }
   ],
   "navigation": {
@@ -909,6 +917,7 @@
           "concepts/oauth",
           "concepts/agent-workspace",
           "concepts/memory",
+          "concepts/memory-zh",
           "concepts/multi-agent",
           "concepts/compaction",
           "concepts/session",
